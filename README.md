@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Lucky Dev
 
-Soy un desarrollador web Full-Stack autodidacta de Argentina 🇦🇷, con 18 años y muchas ganas de construir cosas funcionales con código.  
+Soy un desarrollador web Full-Stack autodidacta de Argentina 🇦🇷, con 18 años y muchas ganas de construir aplicaciones funcionales con código.  
 Me especializo en **React**, **Next.js**, **Node.js** y también tengo conocimientos de **seguridad informática (Purple Team)** 🛡️
 
 ---
