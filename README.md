@@ -17,12 +17,18 @@ Me especializo en **React**, **Next.js**, **Node.js** y también tengo conocimie
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css)
 
 ---
+> [!NOTE] 
+> Mi portafolio 👉🏻 [Portfolio](#)
+
+---
+
+---
 
 ## 📌 Proyectos destacados
 
 🔧 Estoy trabajando en varios proyectos que pronto estarán disponibles aquí.  
-Mientras tanto, podés visitar este repo donde subiré mini apps, experimentos y cosas locas:  
-👉 [Undefined](#)
+Mientras tanto, podés visitar este repo donde subiré mini apps y experimentos:  
+👉 [Contador](https://github.com/lucky4all/counter)
 
 ---
 
