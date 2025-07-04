@@ -28,7 +28,7 @@ Me especializo en **React**, **Next.js**, **Node.js** y también tengo conocimie
 
 🔧 Estoy trabajando en varios proyectos que pronto estarán disponibles aquí.  
 Mientras tanto, podés visitar este repo donde subiré mini apps y experimentos:  
-👉 [Contador](https://github.com/lucky4all/counter)
+👉 [Knowy](https://github.com/lucky4all/knowy)
 
 ---
 
