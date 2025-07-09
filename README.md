@@ -14,6 +14,7 @@ Me especializo en **React**, **Next.js**, **Node.js** y también tengo conocimie
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css)
 
 ---
@@ -29,6 +30,7 @@ Me especializo en **React**, **Next.js**, **Node.js** y también tengo conocimie
 🔧 Estoy trabajando en varios proyectos que pronto estarán disponibles aquí.  
 Mientras tanto, podés visitar este repo donde subiré mini apps y experimentos:  
 👉 [Knowy](https://github.com/lucky4all/knowy)
+👉 [Realtime chat](https://github.com/lucky4all/realtime-chat)
 
 ---
 
