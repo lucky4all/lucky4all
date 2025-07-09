@@ -28,8 +28,10 @@ Me especializo en **React**, **Next.js**, **Node.js** y también tengo conocimie
 ## 📌 Proyectos destacados
 
 🔧 Estoy trabajando en varios proyectos que pronto estarán disponibles aquí.  
-Mientras tanto, podés visitar este repo donde subiré mini apps y experimentos:  
+Mientras tanto, podés visitar este repo donde subiré mini apps y experimentos:
+
 👉 [Knowy](https://github.com/lucky4all/knowy)
+
 👉 [Realtime chat](https://github.com/lucky4all/realtime-chat)
 
 ---
