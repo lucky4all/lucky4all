@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Lucas COscia
+# 👋 ¡Hola! Soy Lucas Coscia
 
 Desarrollador backend con orientación en **Security Engineering & Security Operations**. Me enfoco en construir sistemas robustos y seguros, con especial interés en la infraestructura y las operaciones de seguridad.
 
