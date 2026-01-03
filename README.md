@@ -1,48 +1,42 @@
-# 👋 ¡Hola! Soy Lucky Dev
+# 👋 ¡Hola! Soy Lucas COscia
 
-Soy un desarrollador web Full-Stack autodidacta de Argentina 🇦🇷, con 18 años y muchas ganas de construir aplicaciones funcionales con código.  
-Me especializo en **React**, **Next.js**, **Node.js** y también tengo conocimientos de **seguridad informática (Purple Team)** 🛡️
+Desarrollador backend con orientación en **Security Engineering & Security Operations**. Me enfoco en construir sistemas robustos y seguros, con especial interés en la infraestructura y las operaciones de seguridad.
 
----
+## 🎯 Sobre mí
 
-## 🚀 Tecnologías que uso
+Actualmente estoy profundizando mis conocimientos en seguridad de aplicaciones e infraestructura cloud, explorando constantemente nuevas tecnologías y mejores prácticas. Mi objetivo es contribuir a proyectos de código abierto y desarrollar soluciones que prioricen la seguridad desde el diseño.
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
+## 🛠️ Stack Tecnológico
 
+**Backend & Runtime**
+- Node.js, Bun
+- NestJS
+- GraphQL
+- Hono
 
----
-> [!NOTE] 
-> Mi portafolio 👉🏻 [Portfolio](#)
+**Bases de Datos**
+- SQL / NoSQL
 
----
+**DevOps & Infraestructura**
+- Docker
+- Bash Scripting
 
----
+**Aprendiendo actualmente**
+- Terraform
+- Python
+- Google Cloud Platform
 
-## 📌 Proyectos destacados
+## 🌱 En qué estoy trabajando
 
-🔧 Estoy trabajando en varios proyectos que pronto estarán disponibles aquí.  
-Mientras tanto, podés visitar este repo donde subiré mini apps y experimentos:
-
-👉 [Knowy](https://github.com/lucky4all/knowy)
-
-👉 [Realtime chat](https://github.com/lucky4all/realtime-chat)
-
----
+Estoy en proceso de iniciar mi portafolio de proyectos, con foco en:
+- Aplicaciones backend seguras y escalables
+- Automatización de infraestructura
+- Herramientas de seguridad y operaciones
 
 ## 📫 Contacto
 
-- Email: `lucasromerocoscia@gmail.com`
-- GitHub: [lucky4all](https://github.com/lucky4all)
-- (Próximamente: Portfolio personal 🚧)
+Estoy abierto a colaboraciones, oportunidades y conversaciones sobre desarrollo y seguridad:
 
----
-> — Lucky Dev 😼
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-coscia-0b5831362/)
+- 📧 [Email](mailto:lucasromerocoscia@gmail.com)
+- 📝 [Formulario de contacto](about:blank)
